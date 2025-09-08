@@ -40,10 +40,3 @@ input {
 	border: none;
 	border-bottom: grey;
 }
-.postcard-footer {
-	text-align: center;
-}
-button {
-	background-color: gray;
-	padding: 10px;
-}
